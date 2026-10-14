@@ -1,0 +1,2 @@
+GetterSetter.GetSet
+GetterSetter.GetterSetterContoh1

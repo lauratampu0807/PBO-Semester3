@@ -1,0 +1,3 @@
+Multiple_Inheritance_Interface.AmphibiousVehicle
+Multiple_Inheritance_Interface.WaterVehicle
+Multiple_Inheritance_Interface.LandVehicle

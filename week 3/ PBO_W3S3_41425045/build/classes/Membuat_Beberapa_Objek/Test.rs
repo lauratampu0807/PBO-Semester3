@@ -1,0 +1,4 @@
+Membuat_Beberapa_Objek.Cat
+Membuat_Beberapa_Objek.Dog
+Membuat_Beberapa_Objek.Test
+Membuat_Beberapa_Objek.Animal

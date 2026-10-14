@@ -1,0 +1,26 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package Single_Inheritance;
+
+/* Nama: Laura Tampubolon
+Nim: 41425045
+*/
+class Vehicle {
+    Vehicle() {
+        System.out.println("This is a Vehicle");
+    }
+}
+
+class Car extends Vehicle {
+    Car() {
+        System.out.println("This Vehicle is Car");
+    }
+}
+
+public class Test {
+    public static void main(String[] args) {
+        Car obj = new Car();
+    }
+}

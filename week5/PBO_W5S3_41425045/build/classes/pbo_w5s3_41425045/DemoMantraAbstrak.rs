@@ -1,0 +1,5 @@
+pbo_w5s3_41425045.Expelliarmus
+pbo_w5s3_41425045.DemoMantraAbstrak
+pbo_w5s3_41425045.ExpectoPatronum
+pbo_w5s3_41425045.Lumos
+pbo_w5s3_41425045.MantraAbstrak
